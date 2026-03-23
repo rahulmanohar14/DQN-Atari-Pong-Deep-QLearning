@@ -39,7 +39,7 @@ A Deep Q-Learning agent that learns to play Atari Pong from raw pixel inputs, bu
 
 ## Demo Video
 
-[Video Walkthrough]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1rcibNjiKCj8j2L9qCs5FrxiZ2UN8vKcM/view?usp=sharing))
+[Video Walkthrough](https://drive.google.com/file/d/1rcibNjiKCj8j2L9qCs5FrxiZ2UN8vKcM/view?usp=sharing)
 
 ## Author
 
