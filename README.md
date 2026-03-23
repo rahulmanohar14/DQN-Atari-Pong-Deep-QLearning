@@ -37,6 +37,10 @@ A Deep Q-Learning agent that learns to play Atari Pong from raw pixel inputs, bu
 2. Set runtime to T4 GPU
 3. Run all cells (training takes ~2 hours)
 
+## Demo Video
+
+[Video Walkthrough]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1rcibNjiKCj8j2L9qCs5FrxiZ2UN8vKcM/view?usp=sharing))
+
 ## Author
 
 Rahul Manohar - MS in Information Systems, Northeastern University
